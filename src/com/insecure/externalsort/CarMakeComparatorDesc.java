@@ -1,4 +1,4 @@
-package com.insecure.com.insecure.externalsort;
+package com.insecure.externalsort;
 
 import com.insecure.CarMake;
 
@@ -11,7 +11,7 @@ import java.util.Comparator;
  * Time: 7:07 PM
  */
 
-public class CarMakeComparatorDesc extends CarMake implements Comparator<CarMake> {
+public class CarMakeComparatorDesc implements Comparator<CarMake> {
 
     /**
      * @param o1 - CarMake Object 1

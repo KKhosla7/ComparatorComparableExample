@@ -1,7 +1,7 @@
 package com.insecure;
 
-import com.insecure.com.insecure.externalsort.CarMakeComparatorAsc;
-import com.insecure.com.insecure.externalsort.CarMakeComparatorDesc;
+import com.insecure.externalsort.CarMakeComparatorAsc;
+import com.insecure.externalsort.CarMakeComparatorDesc;
 
 import java.util.ArrayList;
 import java.util.Collections;
